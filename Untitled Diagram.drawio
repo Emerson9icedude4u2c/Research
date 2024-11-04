@@ -213,12 +213,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-64" value="Data privacy and security" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="570" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.592;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="X6JH5Qs2MuLJ38H26zWU-64" edge="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.42;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HFFctY4y6C58vkO1dMiE-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="348.79999999999995" y="610" as="sourcePoint" />
             <mxPoint x="260" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -227,12 +224,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-67" value="Perceived Risk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="850" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="X6JH5Qs2MuLJ38H26zWU-67" edge="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="870" as="sourcePoint" />
+            <mxPoint x="350" y="850" as="sourcePoint" />
             <mxPoint x="270" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -283,9 +277,9 @@
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-78" value="H3b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="770" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="X6JH5Qs2MuLJ38H26zWU-67" edge="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="890" as="sourcePoint" />
+            <mxPoint x="350" y="850" as="sourcePoint" />
             <mxPoint x="330" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -299,9 +293,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.595;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="X6JH5Qs2MuLJ38H26zWU-64" edge="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349" y="630" as="sourcePoint" />
+            <mxPoint x="340" y="613" as="sourcePoint" />
             <mxPoint x="300" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -315,6 +309,12 @@
         </mxCell>
         <mxCell id="HFFctY4y6C58vkO1dMiE-2" value="Perceived Risk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HFFctY4y6C58vkO1dMiE-3" value="Data privacy and security" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HFFctY4y6C58vkO1dMiE-4" value="Perceived Risk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="850" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
