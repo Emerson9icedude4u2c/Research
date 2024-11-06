@@ -199,7 +199,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Purchase Intension&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Use Intensions&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="710" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X6JH5Qs2MuLJ38H26zWU-52" edge="1">
@@ -310,7 +310,7 @@
         <mxCell id="HFFctY4y6C58vkO1dMiE-2" value="Perceived Risk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="450" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFFctY4y6C58vkO1dMiE-3" value="Data privacy and security" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HFFctY4y6C58vkO1dMiE-3" value="Data privacy concerns" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="560" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFFctY4y6C58vkO1dMiE-4" value="Perceived Risk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
