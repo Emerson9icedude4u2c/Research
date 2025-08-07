@@ -177,9 +177,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-50" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;AI-based&amp;nbsp;&lt;/b&gt;Chatbot Cognitive Factors" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="70" y="600" width="160" height="250" as="geometry" />
+          <mxGeometry x="70" y="600" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="X6JH5Qs2MuLJ38H26zWU-51" value="Perceived Trust" style="rounded=1;whiteSpace=wrap;html=1;" parent="X6JH5Qs2MuLJ38H26zWU-50" vertex="1">
+        <mxCell id="X6JH5Qs2MuLJ38H26zWU-51" value="Perceived Chatbot Trust" style="rounded=1;whiteSpace=wrap;html=1;" parent="X6JH5Qs2MuLJ38H26zWU-50" vertex="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-49" value="Perceived Usefulness" style="rounded=1;whiteSpace=wrap;html=1;" parent="X6JH5Qs2MuLJ38H26zWU-50" vertex="1">
@@ -246,7 +246,7 @@
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="613" as="sourcePoint" />
-            <mxPoint x="380" y="760" as="targetPoint" />
+            <mxPoint x="390" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X6JH5Qs2MuLJ38H26zWU-84" value="H6b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X6JH5Qs2MuLJ38H26zWU-83" vertex="1" connectable="0">
