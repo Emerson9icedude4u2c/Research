@@ -1140,7 +1140,7 @@
           <mxGeometry height="80" width="160" x="2040" y="712.5" as="geometry" />
         </mxCell>
         <mxCell id="PIFCq5X1_e3ijif15kta-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fianncing strategy" vertex="1">
-          <mxGeometry height="110" width="155" x="2580" y="745" as="geometry" />
+          <mxGeometry height="110" width="155" x="2780" y="712.5" as="geometry" />
         </mxCell>
         <mxCell id="PIFCq5X1_e3ijif15kta-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Immigrants" vertex="1">
           <mxGeometry height="80" width="160" x="2050" y="830" as="geometry" />
@@ -1148,23 +1148,17 @@
         <mxCell id="PIFCq5X1_e3ijif15kta-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p align=&quot;center&quot; style=&quot;margin-right: 0cm; margin-left: 0cm; text-indent: 0cm; line-height: 24px; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Strategic Resource Adaptation to Funding Constraints: How Women and Immigrant Entrepreneurs Reshape Financing in Danish Startups.&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="960" x="2000" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="PIFCq5X1_e3ijif15kta-10" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-5" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PIFCq5X1_e3ijif15kta-7" value="">
+        <mxCell id="PIFCq5X1_e3ijif15kta-10" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-12" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;" target="PIFCq5X1_e3ijif15kta-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2450" y="750" as="sourcePoint" />
-            <mxPoint x="2580" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PIFCq5X1_e3ijif15kta-11" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-8" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" target="PIFCq5X1_e3ijif15kta-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2210" y="763" as="sourcePoint" />
-            <mxPoint x="2610" y="790" as="targetPoint" />
+            <mxPoint x="2640" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PIFCq5X1_e3ijif15kta-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Entrepreneurs type" vertex="1">
-          <mxGeometry height="240" width="270" x="1990" y="680" as="geometry" />
+          <mxGeometry height="240" width="190" x="2030" y="680" as="geometry" />
         </mxCell>
         <mxCell id="PIFCq5X1_e3ijif15kta-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Industry Characteristics" vertex="1">
-          <mxGeometry height="80" width="120" x="2340" y="1000" as="geometry" />
+          <mxGeometry height="80" width="120" x="2270" y="530" as="geometry" />
         </mxCell>
         <mxCell id="PIFCq5X1_e3ijif15kta-16" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-15" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1178,19 +1172,19 @@
             <mxPoint x="2450" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIFCq5X1_e3ijif15kta-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Founding teams credibility" vertex="1">
-          <mxGeometry height="80" width="120" x="2330" y="560" as="geometry" />
+        <mxCell id="PIFCq5X1_e3ijif15kta-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Perceived founding teams credibility" vertex="1">
+          <mxGeometry height="90" width="180" x="2420" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="PIFCq5X1_e3ijif15kta-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="PIFCq5X1_e3ijif15kta-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PIFCq5X1_e3ijif15kta-18" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2400" y="640" as="sourcePoint" />
-            <mxPoint x="2390" y="840" as="targetPoint" />
+            <mxPoint x="2220" y="800" as="sourcePoint" />
+            <mxPoint x="2650" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIFCq5X1_e3ijif15kta-20" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-18" style="endArrow=classic;html=1;rounded=0;exitX=0.594;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="PIFCq5X1_e3ijif15kta-23" edge="1" parent="1" source="PIFCq5X1_e3ijif15kta-18" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.673;entryDx=0;entryDy=0;exitX=0.95;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="PIFCq5X1_e3ijif15kta-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2363" y="654" as="sourcePoint" />
-            <mxPoint x="2440" y="780" as="targetPoint" />
+            <mxPoint x="2720" y="960" as="sourcePoint" />
+            <mxPoint x="2548" y="972" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
